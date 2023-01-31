@@ -1,4 +1,4 @@
-![Comparação programas habitacionais](/casas.jpeg#vitrinedev)
+![Comparação programas habitacionais](/casas.jpg#vitrinedev)
 
 # Comparacao-programas-habitacionais
 
