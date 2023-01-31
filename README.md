@@ -1,6 +1,5 @@
 # Comparacao-programas-habitacionais
 
-![Comparação programas habitacionais](/casas.jpg#vitrinedev)
 ![Comparação programas habitacionais](/cdhu.jpg#vitrinedev)
 
 ## Limpeza, organização e análise dos dados dos programas Centro de Desenvolvimento Habitacional e Urbano (CDHU - governo de SP) e Minha Casa Minha Vida (MCMV - governo federal) para trabalho científico sobre políticas públicas de um grupo de pesquisa da UNESP.
