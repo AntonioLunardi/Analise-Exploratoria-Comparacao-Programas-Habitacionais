@@ -1,20 +1,21 @@
 # Análise Exploratória de Comparação de Programas Habitacionais
+O trabalho tem o intuito de comparar políticas públicas dos programas Minha Casa Minha Vida e Centro de Desevolvimento Habitacional Urbando. O estudo é feito de forma quantitativa, utilizando os dados de 14 cidades do estado de SP, as quais foram atendidas por ambos os programas.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Analise-Exploratoria-Comparacao-programas-habitacionais**
 | :label: Tecnologias | Power BI, Python, pandas
-| :rocket: URL         | https://app.powerbi.com/view?r=eyJrIjoiMmMwMjliODAtYzQyMC00ZGRjLThlOTktYjE0MWQ0ODU5NTg1IiwidCI6IjY0MWNkNGE2LTU5OTgtNDMxNy05ZTRhLTQ2ZjM2NjhmZGFjNCJ9&pageName=ReportSection
+| :rocket: URL         | [Relatório em Power BI](https://app.powerbi.com/view?r=eyJrIjoiMmMwMjliODAtYzQyMC00ZGRjLThlOTktYjE0MWQ0ODU5NTg1IiwidCI6IjY0MWNkNGE2LTU5OTgtNDMxNy05ZTRhLTQ2ZjM2NjhmZGFjNCJ9&pageName=ReportSection)
 
 ![Comparação programas habitacionais](/cdhu.jpg#vitrinedev)
 
 ## Limpeza, organização e análise dos dados dos programas Centro de Desenvolvimento Habitacional e Urbano (CDHU - governo de SP) e Minha Casa Minha Vida (MCMV - governo federal) para trabalho científico sobre políticas públicas de um grupo de pesquisa da UNESP.
 
-O trabalho consistirá num relatório de comparação de políticas públicas de forma quantitativa e qualitativa de 14 cidades do estado de SP que foram atendidas pelos 2 programas. A parte que é relizada aqui é apenas a referente ao tratamento e análise das bases de dados. Sendo o restante, realizado por pesquisadores e professores da universidade.
+A parte que é relizada aqui é apenas a referente ao tratamento e análise das bases de dados. Sendo o restante, realizado por pesquisadores e professores da universidade.
 
 Os dados do MCMV foram diponibilizados pelo site https://dados.gov.br/dataset/mpog_mcmv e https://www.cdhu.sp.gov.br/, site no qual foi feito um requerimento para obtenção de uma tabela de dados completa de todo o programa. 
 
-O arquivo de Power BI também contém apresentação em layout mobile. Na última página do relatório podem ser comparados os programas agrupados nas próprias cidades através do widget de mapa dinâmico.
+**O arquivo de Power BI também contém apresentação em layout mobile**. Na última página do relatório podem ser comparados os programas agrupados nas próprias cidades através do widget de mapa dinâmico.
 
 CONSLUSÕES:
 
