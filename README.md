@@ -1,4 +1,10 @@
-# Comparacao-programas-habitacionais
+# Análise Exploratória de Comparação de Programas Habitacionais
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Analise-Exploratoria-Comparacao-programas-habitacionais**
+| :label: Tecnologias | Power BI, Python, pandas
+| :rocket: URL         | https://app.powerbi.com/view?r=eyJrIjoiMmMwMjliODAtYzQyMC00ZGRjLThlOTktYjE0MWQ0ODU5NTg1IiwidCI6IjY0MWNkNGE2LTU5OTgtNDMxNy05ZTRhLTQ2ZjM2NjhmZGFjNCJ9&pageName=ReportSection
 
 ![Comparação programas habitacionais](/cdhu.jpg#vitrinedev)
 
