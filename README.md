@@ -1,5 +1,5 @@
 # Análise Exploratória de Comparação de Programas Habitacionais
-O trabalho tem o intuito de comparar políticas públicas dos programas Minha Casa Minha Vida e Centro de Desevolvimento Habitacional Urbando. O estudo é feito de forma quantitativa, utilizando os dados de 14 cidades do estado de SP, as quais foram atendidas por ambos os programas.
+O trabalho tem o intuito de comparar políticas públicas dos programas Minha Casa Minha Vida e Conpanhia de Desevolvimento Habitacional Urbando do Estado de SP. O estudo é feito de forma quantitativa, utilizando os dados de 14 cidades do estado de SP, as quais foram atendidas por ambos os programas.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -9,9 +9,7 @@ O trabalho tem o intuito de comparar políticas públicas dos programas Minha Ca
 
 ![Comparação programas habitacionais](/cdhu.jpg#vitrinedev)
 
-## Limpeza, organização e análise dos dados dos programas Centro de Desenvolvimento Habitacional e Urbano (CDHU - governo de SP) e Minha Casa Minha Vida (MCMV - governo federal) para trabalho científico sobre políticas públicas de um grupo de pesquisa da UNESP.
-
-A parte que é relizada aqui é apenas a referente ao tratamento e análise das bases de dados. Sendo o restante, realizado por pesquisadores e professores da universidade.
+A parte que é relizada aqui é apenas a referente ao tratamento e análise das bases de dados. Sendo o restante, realizado por pesquisadores e professores da universidade. Este trabalho consiste de limpeza, organização e análise dos dados dos programas Centro de Desenvolvimento Habitacional e Urbano (CDHU - governo de SP) e Minha Casa Minha Vida (MCMV - governo federal) para trabalho científico sobre políticas públicas de um grupo de pesquisa da UNESP.
 
 Os dados do MCMV foram diponibilizados pelo site https://dados.gov.br/dataset/mpog_mcmv e https://www.cdhu.sp.gov.br/, site no qual foi feito um requerimento para obtenção de uma tabela de dados completa de todo o programa. 
 
