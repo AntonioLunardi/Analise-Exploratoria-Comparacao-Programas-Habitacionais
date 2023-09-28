@@ -1,5 +1,5 @@
 # Análise Exploratória de Comparação de Programas Habitacionais
-O trabalho tem o intuito de comparar políticas públicas dos programas Minha Casa Minha Vida e Conpanhia de Desevolvimento Habitacional Urbando do Estado de SP.
+O trabalho tem o intuito de comparar políticas públicas dos programas Minha Casa Minha Vida e Companhia de Desevolvimento Habitacional Urbando do Estado de SP.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
