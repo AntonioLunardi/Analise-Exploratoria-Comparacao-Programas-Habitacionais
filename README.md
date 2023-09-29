@@ -13,7 +13,7 @@ O estudo é feito de forma quantitativa, utilizando os dados de 14 cidades do es
 
 A parte que é relizada aqui é apenas a referente ao tratamento e análise das bases de dados. Sendo o restante, realizado por pesquisadores e professores da universidade. Este trabalho consiste de limpeza, organização e análise dos dados dos programas Centro de Desenvolvimento Habitacional e Urbano (CDHU - governo de SP) e Minha Casa Minha Vida (MCMV - governo federal) para trabalho científico sobre políticas públicas de um grupo de pesquisa da UNESP.
 
-Os dados do MCMV foram diponibilizados pelo site https://dados.gov.br/dataset/mpog_mcmv e https://www.cdhu.sp.gov.br/, site no qual foi feito um requerimento para obtenção de uma tabela de dados completa de todo o programa. 
+Os dados foram diponibilizados pelos sites https://dados.gov.br/dataset/mpog_mcmv e https://www.cdhu.sp.gov.br/. No caso do CDHU foi feito um requerimento para obtenção de uma tabela de dados completa de todo o programa. 
 
 **O arquivo de Power BI também contém apresentação em layout mobile**. Na última página do relatório podem ser comparados os programas agrupados nas próprias cidades através do widget de mapa dinâmico.
 
